@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Simple Chat</string>
+    <string name="userID">User ID</string>
+    <string name="gender">Gender</string>
+    <string name="messageTitle">Message Title</string>
+    <string name="messageBody">Message Body</string>
+    <string name="messageTitleHint">Enter Title</string>
+    <string name="messageBodyHint">Enter Message</string>
+    <string name="userIDHint">Enter ID</string>
+    <string name="saveSP">Save | LIST (SP)</string>
+    <string name="saveSQL">Save | LIST (SQLITE)</string>
+    <string name="reviewMessage">Review Message</string>
+    <string name="message">Message</string>
+    <string name="success">Success</string>
+    <string name="failure">Failure</string>
+    <string name="review_message_title">Review Message (%1$s)</string>
+    <string name="message_not_found">Message not found</string>
+</resources>
